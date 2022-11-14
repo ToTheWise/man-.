@@ -1,0 +1,124 @@
+.my {
+    width: 300px;
+    height: 600px;
+    background-color: aquamarine;
+    border-radius: 10%;
+    box-shadow: 8px 8px 8px #444; 
+    border-color: red;
+    position: relative;
+    left: 300px;
+    
+}
+
+.sup {
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    position: absolute;
+    right: 120px;
+    top: 15px;
+
+}
+body {
+    text-align: center;
+}
+
+.man {
+    position:relative;
+    top: 80px
+}
+
+.man {
+    color: blue;
+}
+
+.form {
+    position: relative;
+    top: 90px;
+}
+
+input {
+    position: relative;
+    left: 10px;
+}
+
+.a {
+    position: absolute;
+    left: 115px;
+}
+
+.b {
+    position: absolute;
+    left: 115px;
+    
+}
+
+.c {
+    position: absolute;
+    left: 115px;
+}
+
+.b {
+    width: 160px;
+}
+
+.d {
+    position: absolute;
+    left: 115px;
+}
+
+.e {
+    position: absolute;
+    left: 115px;
+}
+
+.f {
+    position: absolute;
+    left: 115px;
+}
+
+.a2 {
+    position: absolute;
+    right: 200px;
+}
+
+.a3 {
+    position: absolute;
+    right: 200px;
+}
+
+.a5 {
+    position: absolute;
+    right: 200px;
+}
+
+.a6{
+    position: absolute;
+    right: 200px;
+}
+
+.a7 {
+    position: absolute;
+    right: 200px;
+}
+
+.a4 {
+    position: absolute;
+    right: 200px;
+}
+
+.ac {
+    
+    position: absolute;
+    left: 115px;
+}
+
+.ab {
+    position: absolute;
+    right: 200px;
+}
+
+.sub {
+    border-collapse: 0 0 0 0;
+    border-radius: 50%;
+}
